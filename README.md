@@ -46,6 +46,10 @@ control.
   other than devices — see `docs/fr.md` / `docs/en.md`). The list comes from
   `cgrcinemas.fr`'s own public sitemap, which conveniently embeds each
   theater's ID right in its URL slug (`/theaters/p0905-cgr-brignais-lyon/`).
+  Left empty, it returns the 5 cinemas nearest the Gladys house
+  (`location: true` in the manifest, `gladys.getHouses()`) instead of
+  dumping the full ~70-cinema list — falls back to the full list when no
+  house has a location set.
 
 ## Development
 
@@ -82,7 +86,14 @@ To refresh it: fetch `https://www.cgrcinemas.fr/sitemap-index.xml`, follow
 the `sitemap-0.xml` it points to, and extract every `<loc>` under
 `/theaters/` — each slug is `<id>-<name-words-separated-by-dashes>` (e.g.
 `p0905-cgr-brignais-lyon` → id `P0905`), so no extra request per theater is
-needed just to rebuild this list.
+needed just to rebuild the id/name list.
+
+Each entry also carries `address`/`postalCode`/`city`/`latitude`/`longitude`
+(used by `nearestCinemas()` in `src/cgr/cinemas.js`), extracted from the
+`MovieTheater` JSON-LD block (`<script type="application/ld+json">`) that
+each theater's own page (`/theaters/<slug>/`) already embeds for SEO —
+first-party and precise, no third-party geocoding needed here (unlike
+`gladys-ugc`, whose cinema list has no such structured data).
 
 ## Related integrations
 
