@@ -1,0 +1,67 @@
+{
+  "manifest_version": 1,
+  "type": "movies",
+  "name": "CGR",
+  "description": {
+    "en": "Movies currently playing at your CGR cinema.",
+    "fr": "Films actuellement à l'affiche dans votre cinéma CGR."
+  },
+  "version": "0.1.0",
+  "docker_image": "ghcr.io/vincentbesseau/gladys-cgr:0.1.0",
+  "gladys_version": ">=4.90.0",
+  "categories": ["multimedia"],
+  "cover_image": "https://raw.githubusercontent.com/vincentBesseau/gladys-cgr/main/cover.png",
+  "transports": ["cloud"],
+  "config_schema": [
+    {
+      "key": "intro",
+      "type": "section",
+      "label": {
+        "en": "CGR cinema",
+        "fr": "Cinéma CGR"
+      },
+      "description": {
+        "en": "This integration reads the public showtimes data that cgrcinemas.fr already serves to every visitor. It is not an official CGR product, is not affiliated with CGR, and can break without notice if the site changes. Run the action below to find your cinema's ID, then paste it below.",
+        "fr": "Cette intégration lit les données d'horaires publiques que cgrcinemas.fr sert déjà à chaque visiteur. Ce n'est pas un produit officiel CGR, elle n'est pas affiliée à CGR, et peut cesser de fonctionner sans préavis si le site change. Lancez l'action ci-dessous pour trouver l'identifiant de votre cinéma, puis collez-le ci-dessous."
+      }
+    },
+    {
+      "key": "cinema_id",
+      "type": "string",
+      "label": {
+        "en": "Cinema ID",
+        "fr": "Identifiant du cinéma"
+      },
+      "description": {
+        "en": "The ID shown by the \"Find my cinema\" action, e.g. P0905.",
+        "fr": "L'identifiant affiché par l'action \"Trouver mon cinéma\", par ex. P0905."
+      },
+      "required": true
+    }
+  ],
+  "actions": [
+    {
+      "key": "search_cinemas",
+      "label": {
+        "en": "Find my cinema",
+        "fr": "Trouver mon cinéma"
+      },
+      "description": {
+        "en": "Leave the field empty to list every CGR cinema, or type a city name to filter.",
+        "fr": "Laissez le champ vide pour lister tous les cinémas CGR, ou saisissez une ville pour filtrer."
+      },
+      "timeout_seconds": 15,
+      "fields": [
+        {
+          "key": "query",
+          "type": "string",
+          "label": {
+            "en": "City",
+            "fr": "Ville"
+          },
+          "required": false
+        }
+      ]
+    }
+  ]
+}

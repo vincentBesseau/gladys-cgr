@@ -1,0 +1,33 @@
+[
+  {
+    "id": "134925",
+    "title": "Harry Potter et les reliques de la mort - partie 2",
+    "release": "2011-07-13T00:00:00.000Z",
+    "poster": "https://all.web.img.acsta.net/medias/nmedia/18/78/64/49/19762436.jpg",
+    "trailer": {
+      "SD": "https://fr.vid.web.acsta.net/nmedia/s3/33/18/78/64/49/19215613_sd_013.mp4",
+      "HD": "https://fr.vid.web.acsta.net/nmedia/s3/33/18/78/64/49/19215613_hd_013.mp4"
+    },
+    "locale": {
+      "title": "Harry Potter et les reliques de la mort - partie 2",
+      "synopsis": "Le combat final entre Harry et Voldemort.",
+      "poster": { "url": "https://all.web.img.acsta.net/medias/nmedia/18/78/64/49/19762436.jpg" }
+    }
+  },
+  {
+    "id": "276608",
+    "title": "Spider-Man: Brand New Day",
+    "release": "2026-07-29T00:00:00.000Z",
+    "locale": {
+      "title": "Spider-Man: Brand New Day",
+      "synopsis": "Un tout nouveau jour pour Peter Parker."
+    }
+  },
+  {
+    "id": "999999",
+    "title": "Film sans date de sortie",
+    "locale": {
+      "title": "Film sans date de sortie"
+    }
+  }
+]
