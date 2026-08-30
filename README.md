@@ -1,5 +1,11 @@
 # gladys-cgr
 
+[![Latest version](https://img.shields.io/github/v/tag/vincentBesseau/gladys-cgr?label=version)](https://github.com/vincentBesseau/gladys-cgr/tags)
+[![CI](https://github.com/vincentBesseau/gladys-cgr/actions/workflows/ci.yml/badge.svg)](https://github.com/vincentBesseau/gladys-cgr/actions/workflows/ci.yml)
+[![Docker pulls](https://ghcr-badge.elias.eu.org/shield/vincentBesseau/gladys-cgr/gladys-cgr)](https://github.com/vincentBesseau/gladys-cgr/pkgs/container/gladys-cgr)
+[![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Gladys](https://img.shields.io/badge/gladys-%3E%3D4.90.0-6f42c1)](https://gladysassistant.com)
+
 CGR cinema integration for [Gladys Assistant](https://gladysassistant.com):
 movies currently playing at your CGR cinema, shown in the "Upcoming
 Releases" widget (Gladys core contract B.19, `movies` external-integration
@@ -7,10 +13,12 @@ type).
 
 ## Why this is cleaner than gladys-ugc
 
-Same bar as the sibling `gladys-ugc` integration — no paid API, no
-credential extracted from a decompiled app, no bypass of anti-bot
-protection — but CGR's own site (`cgrcinemas.fr`) turned out to expose a
-first-party **JSON** API instead of only rendered HTML:
+Same bar as the sibling [`gladys-ugc`](https://github.com/vincentBesseau/gladys-ugc)
+and [`gladys-pathe`](https://github.com/vincentBesseau/gladys-pathe)
+integrations — no paid API, no credential extracted from a decompiled app,
+no bypass of anti-bot protection — but CGR's own site (`cgrcinemas.fr`)
+turned out to expose a first-party **JSON** API instead of only rendered
+HTML:
 
 - `GET /api/gatsby-source-boxofficeapi/schedule?from=...&to=...&theaters={"id":"P0905","timeZone":"Europe/Paris"}`
   returns every session for a cinema, grouped by film and date, with a full
@@ -75,6 +83,13 @@ the `sitemap-0.xml` it points to, and extract every `<loc>` under
 `/theaters/` — each slug is `<id>-<name-words-separated-by-dashes>` (e.g.
 `p0905-cgr-brignais-lyon` → id `P0905`), so no extra request per theater is
 needed just to rebuild this list.
+
+## Related integrations
+
+Same chain-by-chain approach, one repo per cinema chain:
+
+- [`gladys-ugc`](https://github.com/vincentBesseau/gladys-ugc) — UGC
+- [`gladys-pathe`](https://github.com/vincentBesseau/gladys-pathe) — Pathé
 
 ## Publishing checklist
 
