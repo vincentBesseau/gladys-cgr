@@ -1,0 +1,367 @@
+[
+  {
+    "id": "W8010",
+    "name": "CGR Abbeville La Sucrerie",
+    "slug": "w8010-cgr-abbeville-la-sucrerie"
+  },
+  {
+    "id": "P0867",
+    "name": "CGR Agen",
+    "slug": "p0867-cgr-agen"
+  },
+  {
+    "id": "P8100",
+    "name": "CGR Albi Laperouse",
+    "slug": "p8100-cgr-albi-laperouse"
+  },
+  {
+    "id": "W8101",
+    "name": "CGR Albi Les Cordeliers",
+    "slug": "w8101-cgr-albi-les-cordeliers"
+  },
+  {
+    "id": "P0619",
+    "name": "CGR Angouleme",
+    "slug": "p0619-cgr-angouleme"
+  },
+  {
+    "id": "P0331",
+    "name": "CGR Auxerre",
+    "slug": "p0331-cgr-auxerre"
+  },
+  {
+    "id": "P0252",
+    "name": "CGR Bayonne",
+    "slug": "p0252-cgr-bayonne"
+  },
+  {
+    "id": "P0199",
+    "name": "CGR Beaune",
+    "slug": "p0199-cgr-beaune"
+  },
+  {
+    "id": "P1133",
+    "name": "CGR Beauvais",
+    "slug": "p1133-cgr-beauvais"
+  },
+  {
+    "id": "P0692",
+    "name": "CGR Blagnac Toulouse",
+    "slug": "p0692-cgr-blagnac-toulouse"
+  },
+  {
+    "id": "W3300",
+    "name": "CGR Bordeaux Le Francais",
+    "slug": "w3300-cgr-bordeaux-le-francais"
+  },
+  {
+    "id": "P0925",
+    "name": "CGR Bourges",
+    "slug": "p0925-cgr-bourges"
+  },
+  {
+    "id": "P0151",
+    "name": "CGR Brest Le Celtic",
+    "slug": "p0151-cgr-brest-le-celtic"
+  },
+  {
+    "id": "P0905",
+    "name": "CGR Brignais Lyon",
+    "slug": "p0905-cgr-brignais-lyon"
+  },
+  {
+    "id": "P1038",
+    "name": "CGR Brive La Gaillarde",
+    "slug": "p1038-cgr-brive-la-gaillarde"
+  },
+  {
+    "id": "P0993",
+    "name": "CGR Bruay La Buissiere",
+    "slug": "p0993-cgr-bruay-la-buissiere"
+  },
+  {
+    "id": "P0736",
+    "name": "CGR Buxerolles Poitiers",
+    "slug": "p0736-cgr-buxerolles-poitiers"
+  },
+  {
+    "id": "W0681",
+    "name": "CGR Cagnes Sur Mer Promenade Riviera",
+    "slug": "w0681-cgr-cagnes-sur-mer-promenade-riviera"
+  },
+  {
+    "id": "P5505",
+    "name": "CGR Carcassonne Multiplexe",
+    "slug": "p5505-cgr-carcassonne-multiplexe"
+  },
+  {
+    "id": "W0216",
+    "name": "CGR Castres Multiplexe",
+    "slug": "w0216-cgr-castres-multiplexe"
+  },
+  {
+    "id": "P8517",
+    "name": "CGR Chalons En Champagne",
+    "slug": "p8517-cgr-chalons-en-champagne"
+  },
+  {
+    "id": "P7963",
+    "name": "CGR Chateauroux",
+    "slug": "p7963-cgr-chateauroux"
+  },
+  {
+    "id": "P5823",
+    "name": "CGR Cherbourg",
+    "slug": "p5823-cgr-cherbourg"
+  },
+  {
+    "id": "P0221",
+    "name": "CGR Cherbourg Odeon",
+    "slug": "p0221-cgr-cherbourg-odeon"
+  },
+  {
+    "id": "W4930",
+    "name": "CGR Cholet Arcades Rouge",
+    "slug": "w4930-cgr-cholet-arcades-rouge"
+  },
+  {
+    "id": "W6300",
+    "name": "CGR Clermont Ferrand Le Paris",
+    "slug": "w6300-cgr-clermont-ferrand-le-paris"
+  },
+  {
+    "id": "P0146",
+    "name": "CGR Clermont Ferrand Les Ambiances",
+    "slug": "p0146-cgr-clermont-ferrand-les-ambiances"
+  },
+  {
+    "id": "P6310",
+    "name": "CGR Clermont Ferrand Val Arena",
+    "slug": "p6310-cgr-clermont-ferrand-val-arena"
+  },
+  {
+    "id": "P3829",
+    "name": "CGR Colmar",
+    "slug": "p3829-cgr-colmar"
+  },
+  {
+    "id": "W8330",
+    "name": "CGR Draguignan Chabran",
+    "slug": "w8330-cgr-draguignan-chabran"
+  },
+  {
+    "id": "B0261",
+    "name": "CGR Epinay Sur Seine",
+    "slug": "b0261-cgr-epinay-sur-seine"
+  },
+  {
+    "id": "B0059",
+    "name": "CGR Evry",
+    "slug": "b0059-cgr-evry"
+  },
+  {
+    "id": "W8624",
+    "name": "CGR Fontaine Le Comte Poitiers",
+    "slug": "w8624-cgr-fontaine-le-comte-poitiers"
+  },
+  {
+    "id": "P5044",
+    "name": "CGR Freyming",
+    "slug": "p5044-cgr-freyming"
+  },
+  {
+    "id": "P4093",
+    "name": "CGR La Meziere Rennes",
+    "slug": "p4093-cgr-la-meziere-rennes"
+  },
+  {
+    "id": "P0194",
+    "name": "CGR La Rochelle Dragon",
+    "slug": "p0194-cgr-la-rochelle-dragon"
+  },
+  {
+    "id": "P0134",
+    "name": "CGR La Rochelle Les Minimes",
+    "slug": "p0134-cgr-la-rochelle-les-minimes"
+  },
+  {
+    "id": "P9556",
+    "name": "CGR Lanester",
+    "slug": "p9556-cgr-lanester"
+  },
+  {
+    "id": "P0703",
+    "name": "CGR Lattes",
+    "slug": "p0703-cgr-lattes"
+  },
+  {
+    "id": "P0395",
+    "name": "CGR Le Colisee Carcassonne",
+    "slug": "p0395-cgr-le-colisee-carcassonne"
+  },
+  {
+    "id": "P0160",
+    "name": "CGR Le Mans Le Colisee",
+    "slug": "p0160-cgr-le-mans-le-colisee"
+  },
+  {
+    "id": "W1361",
+    "name": "CGR Le Spot La Ciotat",
+    "slug": "w1361-cgr-le-spot-la-ciotat"
+  },
+  {
+    "id": "W6423",
+    "name": "CGR Lescar Pau",
+    "slug": "w6423-cgr-lescar-pau"
+  },
+  {
+    "id": "W4100",
+    "name": "CGR Manosque",
+    "slug": "w4100-cgr-manosque"
+  },
+  {
+    "id": "B0121",
+    "name": "CGR Mantes La Jolie",
+    "slug": "b0121-cgr-mantes-la-jolie"
+  },
+  {
+    "id": "P4956",
+    "name": "CGR Montauban",
+    "slug": "p4956-cgr-montauban"
+  },
+  {
+    "id": "P0508",
+    "name": "CGR Montauban Le Paris",
+    "slug": "p0508-cgr-montauban-le-paris"
+  },
+  {
+    "id": "W0310",
+    "name": "CGR Moulins",
+    "slug": "w0310-cgr-moulins"
+  },
+  {
+    "id": "W9202",
+    "name": "CGR Nanterre Coeur Universite",
+    "slug": "w9202-cgr-nanterre-coeur-universite"
+  },
+  {
+    "id": "P1093",
+    "name": "CGR Narbonne",
+    "slug": "p1093-cgr-narbonne"
+  },
+  {
+    "id": "P3000",
+    "name": "CGR Nimes",
+    "slug": "p3000-cgr-nimes"
+  },
+  {
+    "id": "P5869",
+    "name": "CGR Niort",
+    "slug": "p5869-cgr-niort"
+  },
+  {
+    "id": "W7519",
+    "name": "CGR Paris Lilas",
+    "slug": "w7519-cgr-paris-lilas"
+  },
+  {
+    "id": "P0198",
+    "name": "CGR Pau Saint Louis",
+    "slug": "p0198-cgr-pau-saint-louis"
+  },
+  {
+    "id": "P0629",
+    "name": "CGR Pau Universite",
+    "slug": "p0629-cgr-pau-universite"
+  },
+  {
+    "id": "P0485",
+    "name": "CGR Perigueux",
+    "slug": "p0485-cgr-perigueux"
+  },
+  {
+    "id": "P0096",
+    "name": "CGR Poitiers Castille",
+    "slug": "p0096-cgr-poitiers-castille"
+  },
+  {
+    "id": "P0761",
+    "name": "CGR Rivesaltes",
+    "slug": "p0761-cgr-rivesaltes"
+  },
+  {
+    "id": "W1200",
+    "name": "CGR Rodez",
+    "slug": "w1200-cgr-rodez"
+  },
+  {
+    "id": "P0798",
+    "name": "CGR Saint Quentin",
+    "slug": "p0798-cgr-saint-quentin"
+  },
+  {
+    "id": "P0743",
+    "name": "CGR Saint Saturnin Le Mans",
+    "slug": "p0743-cgr-saint-saturnin-le-mans"
+  },
+  {
+    "id": "P9520",
+    "name": "CGR Sarcelles My Place",
+    "slug": "p9520-cgr-sarcelles-my-place"
+  },
+  {
+    "id": "P1016",
+    "name": "CGR Soissons",
+    "slug": "p1016-cgr-soissons"
+  },
+  {
+    "id": "W6500",
+    "name": "CGR Tarbes",
+    "slug": "w6500-cgr-tarbes"
+  },
+  {
+    "id": "P0995",
+    "name": "CGR Tarnos Bayonne",
+    "slug": "p0995-cgr-tarnos-bayonne"
+  },
+  {
+    "id": "B9114",
+    "name": "CGR Torcy Marne La Vallee",
+    "slug": "b9114-cgr-torcy-marne-la-vallee"
+  },
+  {
+    "id": "P0704",
+    "name": "CGR Tours 2 Lions",
+    "slug": "p0704-cgr-tours-2-lions"
+  },
+  {
+    "id": "P5756",
+    "name": "CGR Tours Centre",
+    "slug": "p5756-cgr-tours-centre"
+  },
+  {
+    "id": "P0983",
+    "name": "CGR Troyes",
+    "slug": "p0983-cgr-troyes"
+  },
+  {
+    "id": "P6940",
+    "name": "CGR Villefranche Sur Saone",
+    "slug": "p6940-cgr-villefranche-sur-saone"
+  },
+  {
+    "id": "P0664",
+    "name": "CGR Villenave Dornon Bordeaux",
+    "slug": "p0664-cgr-villenave-dornon-bordeaux"
+  },
+  {
+    "id": "P8418",
+    "name": "CGR Villeneuve Les Beziers",
+    "slug": "p8418-cgr-villeneuve-les-beziers"
+  },
+  {
+    "id": "W1312",
+    "name": "CGR Vitrolles",
+    "slug": "w1312-cgr-vitrolles"
+  }
+]
