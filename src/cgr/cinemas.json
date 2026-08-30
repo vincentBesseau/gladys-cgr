@@ -2,366 +2,731 @@
   {
     "id": "W8010",
     "name": "CGR Abbeville La Sucrerie",
-    "slug": "w8010-cgr-abbeville-la-sucrerie"
+    "slug": "w8010-cgr-abbeville-la-sucrerie",
+    "address": "2 rue de Menchecourt",
+    "postalCode": "80100",
+    "city": "Abbeville",
+    "latitude": 50.11479,
+    "longitude": 1.82491
   },
   {
     "id": "P0867",
     "name": "CGR Agen",
-    "slug": "p0867-cgr-agen"
+    "slug": "p0867-cgr-agen",
+    "address": "Place du Pin, 9 Rue de la Prune",
+    "postalCode": "47000",
+    "city": "Agen",
+    "latitude": 44.206,
+    "longitude": 0.62731
   },
   {
     "id": "P8100",
     "name": "CGR Albi Laperouse",
-    "slug": "p8100-cgr-albi-laperouse"
+    "slug": "p8100-cgr-albi-laperouse",
+    "address": "60 rue Séré de Rivière",
+    "postalCode": "81000",
+    "city": "Albi",
+    "latitude": 43.92688,
+    "longitude": 2.14928
   },
   {
     "id": "W8101",
     "name": "CGR Albi Les Cordeliers",
-    "slug": "w8101-cgr-albi-les-cordeliers"
+    "slug": "w8101-cgr-albi-les-cordeliers",
+    "address": "Place de l'amitié entre les peuples",
+    "postalCode": "81000",
+    "city": "Albi",
+    "latitude": 43.92351,
+    "longitude": 2.14437
   },
   {
     "id": "P0619",
     "name": "CGR Angouleme",
-    "slug": "p0619-cgr-angouleme"
+    "slug": "p0619-cgr-angouleme",
+    "address": "30, rue Saint-Roch",
+    "postalCode": "16000",
+    "city": "Angoulême",
+    "latitude": 45.65043,
+    "longitude": 0.16405
   },
   {
     "id": "P0331",
     "name": "CGR Auxerre",
-    "slug": "p0331-cgr-auxerre"
+    "slug": "p0331-cgr-auxerre",
+    "address": "1, bd du 11 Novembre",
+    "postalCode": "89000",
+    "city": "Auxerre",
+    "latitude": 47.79234,
+    "longitude": 3.56761
   },
   {
     "id": "P0252",
     "name": "CGR Bayonne",
-    "slug": "p0252-cgr-bayonne"
+    "slug": "p0252-cgr-bayonne",
+    "address": "Allée du Glain",
+    "postalCode": "64100",
+    "city": "Bayonne",
+    "latitude": 43.48583,
+    "longitude": -1.47124
   },
   {
     "id": "P0199",
     "name": "CGR Beaune",
-    "slug": "p0199-cgr-beaune"
+    "slug": "p0199-cgr-beaune",
+    "address": "13 bis boulevard Maréchal Joffre",
+    "postalCode": "21200",
+    "city": "Beaune",
+    "latitude": 47.02535,
+    "longitude": 4.84295
   },
   {
     "id": "P1133",
     "name": "CGR Beauvais",
-    "slug": "p1133-cgr-beauvais"
+    "slug": "p1133-cgr-beauvais",
+    "address": "16 rue Correus",
+    "postalCode": "60000",
+    "city": "Beauvais",
+    "latitude": 49.42727,
+    "longitude": 2.09043
   },
   {
     "id": "P0692",
     "name": "CGR Blagnac Toulouse",
-    "slug": "p0692-cgr-blagnac-toulouse"
+    "slug": "p0692-cgr-blagnac-toulouse",
+    "address": "allee Emile-Zola,  ZAC du Grand-Noble, dir. aéroport, Ccial Leclerc,",
+    "postalCode": "31700",
+    "city": "Blagnac",
+    "latitude": 43.63509,
+    "longitude": 1.39703
   },
   {
     "id": "W3300",
     "name": "CGR Bordeaux Le Francais",
-    "slug": "w3300-cgr-bordeaux-le-francais"
+    "slug": "w3300-cgr-bordeaux-le-francais",
+    "address": "9 rue Montesquieu",
+    "postalCode": "33000",
+    "city": "Bordeaux",
+    "latitude": 44.84249,
+    "longitude": -0.57854
   },
   {
     "id": "P0925",
     "name": "CGR Bourges",
-    "slug": "p0925-cgr-bourges"
+    "slug": "p0925-cgr-bourges",
+    "address": "ZAC du Prado, boulevard de l'Avenir",
+    "postalCode": "18000",
+    "city": "Bourges",
+    "latitude": 47.0827,
+    "longitude": 2.38766
   },
   {
     "id": "P0151",
     "name": "CGR Brest Le Celtic",
-    "slug": "p0151-cgr-brest-le-celtic"
+    "slug": "p0151-cgr-brest-le-celtic",
+    "address": "187, rue Jean-Jaures",
+    "postalCode": "29200",
+    "city": "Brest",
+    "latitude": 48.39813,
+    "longitude": -4.47372
   },
   {
     "id": "P0905",
     "name": "CGR Brignais Lyon",
-    "slug": "p0905-cgr-brignais-lyon"
+    "slug": "p0905-cgr-brignais-lyon",
+    "address": "1 A RUE DE L'INDUSTRIE / ZI LES VALLIERES",
+    "postalCode": "69530",
+    "city": "Brignais",
+    "latitude": 45.67836,
+    "longitude": 4.77463
   },
   {
     "id": "P1038",
     "name": "CGR Brive La Gaillarde",
-    "slug": "p1038-cgr-brive-la-gaillarde"
+    "slug": "p1038-cgr-brive-la-gaillarde",
+    "address": "4 Avenue Jacques et Bernadette Chirac",
+    "postalCode": "19100",
+    "city": "Brive-la-Gaillarde",
+    "latitude": 45.16546,
+    "longitude": 1.54263
   },
   {
     "id": "P0993",
     "name": "CGR Bruay La Buissiere",
-    "slug": "p0993-cgr-bruay-la-buissiere"
+    "slug": "p0993-cgr-bruay-la-buissiere",
+    "address": "ZAC de la Porte Nord",
+    "postalCode": "62700",
+    "city": "Bruay-la-Buissière",
+    "latitude": 50.48125,
+    "longitude": 2.54431
   },
   {
     "id": "P0736",
     "name": "CGR Buxerolles Poitiers",
-    "slug": "p0736-cgr-buxerolles-poitiers"
+    "slug": "p0736-cgr-buxerolles-poitiers",
+    "address": "rue des Freres Lumiere",
+    "postalCode": "86180",
+    "city": "Buxerolles",
+    "latitude": 46.61211,
+    "longitude": 0.35969
   },
   {
     "id": "W0681",
     "name": "CGR Cagnes Sur Mer Promenade Riviera",
-    "slug": "w0681-cgr-cagnes-sur-mer-promenade-riviera"
+    "slug": "w0681-cgr-cagnes-sur-mer-promenade-riviera",
+    "address": "119 Avenue Des Alpes ",
+    "postalCode": "06800",
+    "city": "Cagnes-sur-Mer",
+    "latitude": 43.66369,
+    "longitude": 7.1279
   },
   {
     "id": "P5505",
     "name": "CGR Carcassonne Multiplexe",
-    "slug": "p5505-cgr-carcassonne-multiplexe"
+    "slug": "p5505-cgr-carcassonne-multiplexe",
+    "address": "Rue Magelan",
+    "postalCode": "11000",
+    "city": "Carcassonne",
+    "latitude": 43.23472,
+    "longitude": 2.36605
   },
   {
     "id": "W0216",
     "name": "CGR Castres Multiplexe",
-    "slug": "w0216-cgr-castres-multiplexe"
+    "slug": "w0216-cgr-castres-multiplexe",
+    "address": "72 Chem. des Porches",
+    "postalCode": "81100",
+    "city": "Castres",
+    "latitude": 43.6012,
+    "longitude": 2.2503
   },
   {
     "id": "P8517",
     "name": "CGR Chalons En Champagne",
-    "slug": "p8517-cgr-chalons-en-champagne"
+    "slug": "p8517-cgr-chalons-en-champagne",
+    "address": "ZAC des Escarnotieres",
+    "postalCode": "51000",
+    "city": "Châlons-en-Champagne",
+    "latitude": 48.93955,
+    "longitude": 4.39856
   },
   {
     "id": "P7963",
     "name": "CGR Chateauroux",
-    "slug": "p7963-cgr-chateauroux"
+    "slug": "p7963-cgr-chateauroux",
+    "address": "86 avenue Charles de Gaulle",
+    "postalCode": "36000",
+    "city": "Châteauroux",
+    "latitude": 46.8085,
+    "longitude": 1.6899
   },
   {
     "id": "P5823",
     "name": "CGR Cherbourg",
-    "slug": "p5823-cgr-cherbourg"
+    "slug": "p5823-cgr-cherbourg",
+    "address": "Bd Félix Amiot",
+    "postalCode": "50100",
+    "city": "Cherbourg-Octeville",
+    "latitude": 49.64255,
+    "longitude": -1.61005
   },
   {
     "id": "P0221",
     "name": "CGR Cherbourg Odeon",
-    "slug": "p0221-cgr-cherbourg-odeon"
+    "slug": "p0221-cgr-cherbourg-odeon",
+    "address": "51, rue du Marechal-Foch",
+    "postalCode": "50100",
+    "city": "Cherbourg-Octeville",
+    "latitude": 49.63894,
+    "longitude": -1.62143
   },
   {
     "id": "W4930",
     "name": "CGR Cholet Arcades Rouge",
-    "slug": "w4930-cgr-cholet-arcades-rouge"
+    "slug": "w4930-cgr-cholet-arcades-rouge",
+    "address": "Les Arcades Rougé",
+    "postalCode": "49300",
+    "city": "Cholet",
+    "latitude": 47.06124,
+    "longitude": -0.88318
   },
   {
     "id": "W6300",
     "name": "CGR Clermont Ferrand Le Paris",
-    "slug": "w6300-cgr-clermont-ferrand-le-paris"
+    "slug": "w6300-cgr-clermont-ferrand-le-paris",
+    "address": "Rue Barrière de Jaude",
+    "postalCode": "63000",
+    "city": "Clermont-Ferrand",
+    "latitude": 45.77444,
+    "longitude": 3.08141
   },
   {
     "id": "P0146",
     "name": "CGR Clermont Ferrand Les Ambiances",
-    "slug": "p0146-cgr-clermont-ferrand-les-ambiances"
+    "slug": "p0146-cgr-clermont-ferrand-les-ambiances",
+    "address": "7, rue Saint Dominique",
+    "postalCode": "63000",
+    "city": "Clermont-Ferrand",
+    "latitude": 45.77859,
+    "longitude": 3.08124
   },
   {
     "id": "P6310",
     "name": "CGR Clermont Ferrand Val Arena",
-    "slug": "p6310-cgr-clermont-ferrand-val-arena"
+    "slug": "p6310-cgr-clermont-ferrand-val-arena",
+    "address": "210 Blvd Etienne Clémentel",
+    "postalCode": "63000",
+    "city": "Clermont-Ferrand",
+    "latitude": 45.81269,
+    "longitude": 3.10947
   },
   {
     "id": "P3829",
     "name": "CGR Colmar",
-    "slug": "p3829-cgr-colmar"
+    "slug": "p3829-cgr-colmar",
+    "address": "1 place Scheurer Kestner",
+    "postalCode": "68000",
+    "city": "Colmar",
+    "latitude": 48.08247,
+    "longitude": 7.35665
   },
   {
     "id": "W8330",
     "name": "CGR Draguignan Chabran",
-    "slug": "w8330-cgr-draguignan-chabran"
+    "slug": "w8330-cgr-draguignan-chabran",
+    "address": "166 Pl du 7e Btn de Chasseurs Alpins",
+    "postalCode": "83300",
+    "city": "Draguignan",
+    "latitude": 43.5318,
+    "longitude": 6.47372
   },
   {
     "id": "B0261",
     "name": "CGR Epinay Sur Seine",
-    "slug": "b0261-cgr-epinay-sur-seine"
+    "slug": "b0261-cgr-epinay-sur-seine",
+    "address": "5 Avenue Joffre",
+    "postalCode": "93800",
+    "city": "Épinay-sur-Seine",
+    "latitude": 48.95674,
+    "longitude": 2.30422
   },
   {
     "id": "B0059",
     "name": "CGR Evry",
-    "slug": "b0059-cgr-evry"
+    "slug": "b0059-cgr-evry",
+    "address": "Centre Commercial Evry2 - Place de l'Agora",
+    "postalCode": "91000",
+    "city": "Évry",
+    "latitude": 48.62869,
+    "longitude": 2.4294
   },
   {
     "id": "W8624",
     "name": "CGR Fontaine Le Comte Poitiers",
-    "slug": "w8624-cgr-fontaine-le-comte-poitiers"
+    "slug": "w8624-cgr-fontaine-le-comte-poitiers",
+    "address": "ZA Porte d’Aquitaine",
+    "postalCode": "86240",
+    "city": "Fontaine-le-Comte",
+    "latitude": 46.53072,
+    "longitude": 0.27981
   },
   {
     "id": "P5044",
     "name": "CGR Freyming",
-    "slug": "p5044-cgr-freyming"
+    "slug": "p5044-cgr-freyming",
+    "address": "Rue basse, RN3",
+    "postalCode": "57800",
+    "city": "Freyming-Merlebach",
+    "latitude": 49.14019,
+    "longitude": 6.80154
   },
   {
     "id": "P4093",
     "name": "CGR La Meziere Rennes",
-    "slug": "p4093-cgr-la-meziere-rennes"
+    "slug": "p4093-cgr-la-meziere-rennes",
+    "address": "Cap Malo --  Route de Saint Malo",
+    "postalCode": "35520",
+    "city": "La Mézière",
+    "latitude": 48.20679,
+    "longitude": -1.73171
   },
   {
     "id": "P0194",
     "name": "CGR La Rochelle Dragon",
-    "slug": "p0194-cgr-la-rochelle-dragon"
+    "slug": "p0194-cgr-la-rochelle-dragon",
+    "address": "8, Cours des Dames",
+    "postalCode": "17000",
+    "city": "La Rochelle",
+    "latitude": 46.15783,
+    "longitude": -1.1535
   },
   {
     "id": "P0134",
     "name": "CGR La Rochelle Les Minimes",
-    "slug": "p0134-cgr-la-rochelle-les-minimes"
+    "slug": "p0134-cgr-la-rochelle-les-minimes",
+    "address": "Avenue Henri Becquerel",
+    "postalCode": "17000",
+    "city": "La Rochelle",
+    "latitude": 46.14706,
+    "longitude": -1.15587
   },
   {
     "id": "P9556",
     "name": "CGR Lanester",
-    "slug": "p9556-cgr-lanester"
+    "slug": "p9556-cgr-lanester",
+    "address": "Rue Gustave Zede - Zone du Manebos",
+    "postalCode": "56600",
+    "city": "Lanester",
+    "latitude": 47.77583,
+    "longitude": -3.35519
   },
   {
     "id": "P0703",
     "name": "CGR Lattes",
-    "slug": "p0703-cgr-lattes"
+    "slug": "p0703-cgr-lattes",
+    "address": "Centre commercial Carrefour Lattes",
+    "postalCode": "34970",
+    "city": "Lattes",
+    "latitude": 43.58424,
+    "longitude": 3.93635
   },
   {
     "id": "P0395",
     "name": "CGR Le Colisee Carcassonne",
-    "slug": "p0395-cgr-le-colisee-carcassonne"
+    "slug": "p0395-cgr-le-colisee-carcassonne",
+    "address": "10 bd Omer Sarraut",
+    "postalCode": "11000",
+    "city": "Carcassonne",
+    "latitude": 43.21649,
+    "longitude": 2.35253
   },
   {
     "id": "P0160",
     "name": "CGR Le Mans Le Colisee",
-    "slug": "p0160-cgr-le-mans-le-colisee"
+    "slug": "p0160-cgr-le-mans-le-colisee",
+    "address": "11 rue du Port",
+    "postalCode": "72000",
+    "city": "Le Mans",
+    "latitude": 48.00284,
+    "longitude": 0.19415
   },
   {
     "id": "W1361",
     "name": "CGR Le Spot La Ciotat",
-    "slug": "w1361-cgr-le-spot-la-ciotat"
+    "slug": "w1361-cgr-le-spot-la-ciotat",
+    "address": "756 Av. Emile Bodin",
+    "postalCode": "13600",
+    "city": "La Ciotat",
+    "latitude": 43.1961,
+    "longitude": 5.5976
   },
   {
     "id": "W6423",
     "name": "CGR Lescar Pau",
-    "slug": "w6423-cgr-lescar-pau"
+    "slug": "w6423-cgr-lescar-pau",
+    "address": "Centre Commercial Quartier Libre, 180 Boulevard de l’Europe",
+    "postalCode": "64230",
+    "city": "Lescar",
+    "latitude": 43.31747,
+    "longitude": -0.4339
   },
   {
     "id": "W4100",
     "name": "CGR Manosque",
-    "slug": "w4100-cgr-manosque"
+    "slug": "w4100-cgr-manosque",
+    "address": "2 Espace Soubeyran",
+    "postalCode": "04100",
+    "city": "Manosque",
+    "latitude": 43.83583,
+    "longitude": 5.78348
   },
   {
     "id": "B0121",
     "name": "CGR Mantes La Jolie",
-    "slug": "b0121-cgr-mantes-la-jolie"
+    "slug": "b0121-cgr-mantes-la-jolie",
+    "address": "Place Henri Dunant",
+    "postalCode": "78200",
+    "city": "Mantes-la-Jolie",
+    "latitude": 48.98812,
+    "longitude": 1.71156
   },
   {
     "id": "P4956",
     "name": "CGR Montauban",
-    "slug": "p4956-cgr-montauban"
+    "slug": "p4956-cgr-montauban",
+    "address": "245 RUE ANDRÉ JORIGNÉ",
+    "postalCode": "82000",
+    "city": "Montauban",
+    "latitude": 44.03874,
+    "longitude": 1.38658
   },
   {
     "id": "P0508",
     "name": "CGR Montauban Le Paris",
-    "slug": "p0508-cgr-montauban-le-paris"
+    "slug": "p0508-cgr-montauban-le-paris",
+    "address": "21, bd Gustave-Garrisson",
+    "postalCode": "82000",
+    "city": "Montauban",
+    "latitude": 44.01675,
+    "longitude": 1.36149
   },
   {
     "id": "W0310",
     "name": "CGR Moulins",
-    "slug": "w0310-cgr-moulins"
+    "slug": "w0310-cgr-moulins",
+    "address": "16 rue Marcellin Desboutins",
+    "postalCode": "03000",
+    "city": "Moulins",
+    "latitude": 46.56475,
+    "longitude": 3.33959
   },
   {
     "id": "W9202",
     "name": "CGR Nanterre Coeur Universite",
-    "slug": "w9202-cgr-nanterre-coeur-universite"
+    "slug": "w9202-cgr-nanterre-coeur-universite",
+    "address": "200 allée de Corse",
+    "postalCode": "92000",
+    "city": "Nanterre",
+    "latitude": 48.90033,
+    "longitude": 2.21341
   },
   {
     "id": "P1093",
     "name": "CGR Narbonne",
-    "slug": "p1093-cgr-narbonne"
+    "slug": "p1093-cgr-narbonne",
+    "address": "ZI de la Croix du Sud - route de Perpignan",
+    "postalCode": "11100",
+    "city": "Narbonne",
+    "latitude": 43.16025,
+    "longitude": 2.98299
   },
   {
     "id": "P3000",
     "name": "CGR Nimes",
-    "slug": "p3000-cgr-nimes"
+    "slug": "p3000-cgr-nimes",
+    "address": "Avenue de la Méditerranée",
+    "postalCode": "30000",
+    "city": "Nîmes",
+    "latitude": 43.83143,
+    "longitude": 4.36797
   },
   {
     "id": "P5869",
     "name": "CGR Niort",
-    "slug": "p5869-cgr-niort"
+    "slug": "p5869-cgr-niort",
+    "address": "Rue du 14 juillet",
+    "postalCode": "79000",
+    "city": "Niort",
+    "latitude": 46.32224,
+    "longitude": -0.4568
   },
   {
     "id": "W7519",
     "name": "CGR Paris Lilas",
-    "slug": "w7519-cgr-paris-lilas"
+    "slug": "w7519-cgr-paris-lilas",
+    "address": "Place du Maquis du Vercors",
+    "postalCode": "75020",
+    "city": "Paris",
+    "latitude": 48.87798,
+    "longitude": 2.40874
   },
   {
     "id": "P0198",
     "name": "CGR Pau Saint Louis",
-    "slug": "p0198-cgr-pau-saint-louis"
+    "slug": "p0198-cgr-pau-saint-louis",
+    "address": "11, rue du Marechal-Joffre",
+    "postalCode": "64000",
+    "city": "Pau",
+    "latitude": 43.2958,
+    "longitude": -0.37012
   },
   {
     "id": "P0629",
     "name": "CGR Pau Universite",
-    "slug": "p0629-cgr-pau-universite"
+    "slug": "p0629-cgr-pau-universite",
+    "address": "Place du 7ème Art (centre E.Leclerc) - Pau Université",
+    "postalCode": "64000",
+    "city": "Pau",
+    "latitude": 43.31527,
+    "longitude": -0.35788
   },
   {
     "id": "P0485",
     "name": "CGR Perigueux",
-    "slug": "p0485-cgr-perigueux"
+    "slug": "p0485-cgr-perigueux",
+    "address": "Place Francheville",
+    "postalCode": "24000",
+    "city": "Périgueux",
+    "latitude": 45.18229,
+    "longitude": 0.71827
   },
   {
     "id": "P0096",
     "name": "CGR Poitiers Castille",
-    "slug": "p0096-cgr-poitiers-castille"
+    "slug": "p0096-cgr-poitiers-castille",
+    "address": "24 place du Marechal-Leclerc",
+    "postalCode": "86000",
+    "city": "Poitiers",
+    "latitude": 46.58013,
+    "longitude": 0.3391
   },
   {
     "id": "P0761",
     "name": "CGR Rivesaltes",
-    "slug": "p0761-cgr-rivesaltes"
+    "slug": "p0761-cgr-rivesaltes",
+    "address": "Centre commercial Cap Roussillon, Rue George Méliès",
+    "postalCode": "66600",
+    "city": "Rivesaltes",
+    "latitude": 42.77623,
+    "longitude": 2.90957
   },
   {
     "id": "W1200",
     "name": "CGR Rodez",
-    "slug": "w1200-cgr-rodez"
+    "slug": "w1200-cgr-rodez",
+    "address": "Esplanade de Rutènes - Avenue Victor Hugo",
+    "postalCode": "12000",
+    "city": "Rodez",
+    "latitude": 44.35194,
+    "longitude": 2.56625
   },
   {
     "id": "P0798",
     "name": "CGR Saint Quentin",
-    "slug": "p0798-cgr-saint-quentin"
+    "slug": "p0798-cgr-saint-quentin",
+    "address": "Quai Gayant",
+    "postalCode": "02100",
+    "city": "Saint-Quentin",
+    "latitude": 49.84048,
+    "longitude": 3.29298
   },
   {
     "id": "P0743",
     "name": "CGR Saint Saturnin Le Mans",
-    "slug": "p0743-cgr-saint-saturnin-le-mans"
+    "slug": "p0743-cgr-saint-saturnin-le-mans",
+    "address": "Rue Jean de Vignolles (ZAC Portes de l'Oceane)",
+    "postalCode": "72650",
+    "city": "Saint-Saturnin",
+    "latitude": 48.04921,
+    "longitude": 0.17314
   },
   {
     "id": "P9520",
     "name": "CGR Sarcelles My Place",
-    "slug": "p9520-cgr-sarcelles-my-place"
+    "slug": "p9520-cgr-sarcelles-my-place",
+    "address": "2, contre-allée Henri Dunant",
+    "postalCode": "95200",
+    "city": "Sarcelles",
+    "latitude": 48.98308,
+    "longitude": 2.37138
   },
   {
     "id": "P1016",
     "name": "CGR Soissons",
-    "slug": "p1016-cgr-soissons"
+    "slug": "p1016-cgr-soissons",
+    "address": "12, rue du Beffroi",
+    "postalCode": "02200",
+    "city": "Soissons",
+    "latitude": 49.37596,
+    "longitude": 3.3286
   },
   {
     "id": "W6500",
     "name": "CGR Tarbes",
-    "slug": "w6500-cgr-tarbes"
+    "slug": "w6500-cgr-tarbes",
+    "address": "Avenue des Forges",
+    "postalCode": "65000",
+    "city": "Tarbes",
+    "latitude": 43.24025,
+    "longitude": 0.07973
   },
   {
     "id": "P0995",
     "name": "CGR Tarnos Bayonne",
-    "slug": "p0995-cgr-tarnos-bayonne"
+    "slug": "p0995-cgr-tarnos-bayonne",
+    "address": "RD 810",
+    "postalCode": "40220",
+    "city": "Tarnos",
+    "latitude": 43.52264,
+    "longitude": -1.4636
   },
   {
     "id": "B9114",
     "name": "CGR Torcy Marne La Vallee",
-    "slug": "b9114-cgr-torcy-marne-la-vallee"
+    "slug": "b9114-cgr-torcy-marne-la-vallee",
+    "address": "Promenade du 7ème Art",
+    "postalCode": "77200",
+    "city": "Torcy",
+    "latitude": 48.84089,
+    "longitude": 2.65494
   },
   {
     "id": "P0704",
     "name": "CGR Tours 2 Lions",
-    "slug": "p0704-cgr-tours-2-lions"
+    "slug": "p0704-cgr-tours-2-lions",
+    "address": "av. Marcel-Merieux, quart. des 2 Lions 37200 Tours",
+    "postalCode": "37200",
+    "city": "Tours",
+    "latitude": 47.36558,
+    "longitude": 0.67865
   },
   {
     "id": "P5756",
     "name": "CGR Tours Centre",
-    "slug": "p5756-cgr-tours-centre"
+    "slug": "p5756-cgr-tours-centre",
+    "address": "4 Place François Truffaut",
+    "postalCode": "37000",
+    "city": "Tours",
+    "latitude": 47.38799,
+    "longitude": 0.69331
   },
   {
     "id": "P0983",
     "name": "CGR Troyes",
-    "slug": "p0983-cgr-troyes"
+    "slug": "p0983-cgr-troyes",
+    "address": "13, rue des Bas-Trevois",
+    "postalCode": "10000",
+    "city": "Troyes",
+    "latitude": 48.29206,
+    "longitude": 4.08034
   },
   {
     "id": "P6940",
     "name": "CGR Villefranche Sur Saone",
-    "slug": "p6940-cgr-villefranche-sur-saone"
+    "slug": "p6940-cgr-villefranche-sur-saone",
+    "address": "140 Passage Yvonne Margerit",
+    "postalCode": "69400",
+    "city": "Villefranche-sur-Saône",
+    "latitude": 45.98973,
+    "longitude": 4.72461
   },
   {
     "id": "P0664",
     "name": "CGR Villenave Dornon Bordeaux",
-    "slug": "p0664-cgr-villenave-dornon-bordeaux"
+    "slug": "p0664-cgr-villenave-dornon-bordeaux",
+    "address": "Avenue du 7ème Art",
+    "postalCode": "33140",
+    "city": "Villenave-d'Ornon",
+    "latitude": 44.78804,
+    "longitude": -0.53014
   },
   {
     "id": "P8418",
     "name": "CGR Villeneuve Les Beziers",
-    "slug": "p8418-cgr-villeneuve-les-beziers"
+    "slug": "p8418-cgr-villeneuve-les-beziers",
+    "address": "Avenue Pierre Bérégovoy",
+    "postalCode": "34420",
+    "city": "Villeneuve-lès-Béziers",
+    "latitude": 43.31362,
+    "longitude": 3.2813
   },
   {
     "id": "W1312",
     "name": "CGR Vitrolles",
-    "slug": "w1312-cgr-vitrolles"
+    "slug": "w1312-cgr-vitrolles",
+    "address": "2, rue Gérard Toulon",
+    "postalCode": "13127",
+    "city": "Vitrolles",
+    "latitude": 43.4586,
+    "longitude": 5.2497
   }
 ]
