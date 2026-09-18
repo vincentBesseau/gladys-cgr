@@ -1,7 +1,7 @@
 # CGR
 
-Movies currently playing at your CGR cinema, shown in Gladys's "Upcoming
-Releases" widget.
+Movies currently playing at your CGR cinema, as a dashboard widget, with a
+scene trigger for when a new film joins the program.
 
 ## Important: unofficial integration
 
@@ -28,10 +28,18 @@ itself.
 If no Gladys house has a location set, leaving the field empty lists every
 CGR cinema instead (fallback behavior).
 
-The films playing today at that cinema then appear in the dashboard's
-"Upcoming Releases" widget. Clicking a poster opens the film's detail card,
-which shows its trailer (when cgrcinemas.fr has one) and a table of today's
-showtimes at that cinema (time and version, VF/VO/VOST).
+Add the integration's **now_playing** widget to a Gladys dashboard to see the
+films playing today at that cinema: poster, a booking link, today's
+showtimes (time and version, VF/VO/VOST) and, when cgrcinemas.fr has one, a
+trailer link.
+
+## Scene trigger
+
+The integration also declares a **new_film** scene trigger: create a scene
+with this trigger to react when a film not seen before appears in the
+program (send a message, for example). The trigger exposes the film's
+title, release date, today's showtimes and booking link as scene variables.
+The integration checks for new films twice a day.
 
 ## Known limitations (v1)
 
