@@ -1,6 +1,6 @@
 {
   "name": "gladys-cgr",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "description": "CGR cinema integration for Gladys Assistant: movies currently playing at your CGR cinema.",
   "type": "module",
